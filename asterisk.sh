@@ -186,7 +186,7 @@ compile_asterisk() {
 # Install Asterisk
 install_asterisk() {
     info "Installing Asterisk..."
-    make instal
+    make install
 }
 
 # Install sample configuration files
